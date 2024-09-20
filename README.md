@@ -4,4 +4,4 @@ First changes from gitahub
 line 1 from git location
 changes in git hub
 changes from git_local machine
-changes from remote machine 
+changes to check fetch  
